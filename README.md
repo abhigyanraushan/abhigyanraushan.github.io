@@ -9,7 +9,7 @@ Python | Tech Enthusiast | Open Source Contributor
 ---
 
 ## About Me
-Hello! I'm Abhigyan Raushan, a passionate college student learning **Python. I'm working on various projects and assignments to improve my programming skills. My goal is to master Python and use it to solve real-world challenges.
+Hello! I'm Abhigyan Raushan, a dedicated college student immersed in the world of Python programming. My journey is fueled by a relentless pursuit of knowledge through diverse projects and assignments, aimed at honing my coding prowess. My ultimate ambition is to achieve mastery in Python and leverage its capabilities to tackle real-world problems, bringing innovative solutions to life.
 
 ---
 
